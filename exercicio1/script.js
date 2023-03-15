@@ -8,7 +8,7 @@ console.log(typeof nome)
 console.log(typeof idade)
 
 //houve erro no console pois as constantes não foram declaradas
-// ao usar o comando porompt o erro foi corrigido
+//ao usar o comando porompt o erro foi corrigido
 console.log("Olá, seu nome é", nome, "e a sua idade é de", idade, "anos.")
 
 console.log("Parte 2 -----")

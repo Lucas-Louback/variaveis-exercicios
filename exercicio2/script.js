@@ -1,6 +1,6 @@
 console.log("Exercício 2")
-let a = 10
-let b = 25
+let a = Number( prompt("Escolha o número 'a' ") )
+let b = Number( prompt("Escolha o número 'b'") )
 let c = a
 
 console.log("a=",a)
@@ -14,3 +14,4 @@ b = c
 
 console.log("a=",a)
 console.log("b=",b)
+

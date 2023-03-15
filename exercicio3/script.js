@@ -3,7 +3,7 @@ console.log("Exercício 3")
 const nome = prompt("Qual o seu nome completo?")
 typeof nome
 
-let data = Number( prompt("Qual a sua data de nascimento? dd/mm/yyyy") )
+let data = prompt("Qual a sua data de nascimento? dd/mm/yyyy")
 typeof data
 
 const endereço = prompt("Qual o seu endereço? ")
@@ -27,7 +27,7 @@ typeof emprego
 const comissao = confirm("Você recebe comissão?")
 typeof comissao
 
-let admissao = Number( prompt("Qual o ano de admissa? dd/mm/yyyy") )
+let admissao = prompt("Qual o ano de admissão? dd/mm/yyyy")
 typeof admissao
 
 console.log(nome)
